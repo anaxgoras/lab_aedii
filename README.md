@@ -1,1 +1,3 @@
-# lab_aedii
+ # lab_aedii
+ Anaxágoras
+ Wallacy
